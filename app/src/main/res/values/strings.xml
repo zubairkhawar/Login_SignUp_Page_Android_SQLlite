@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login_SignUp_Page_Android_SQLlite</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="email">Email</string>
+    <string name="logo">logo</string>
+    <string name="confirm">Confirm</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="not_registered_sign_up">Not Registered? Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log In</string>
+</resources>
